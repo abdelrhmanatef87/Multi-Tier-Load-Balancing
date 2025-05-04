@@ -8,7 +8,7 @@ This project sets up a scalable web architecture in AWS using EC2 instances as r
 
 ## Architecture Diagram
 
-![Architecture Diagram](path/to/your/diagram.png)
+![Architecture Diagram](task.jpg)
 
 ### Components:
 1. **Public EC2 Instances (Reverse Proxies)**:
